@@ -1,7 +1,7 @@
 # ProiectMAP
 ConvertToRoman
    Documentatie:
-
+Pull de pe DockerHub : https://hub.docker.com/r/catalincaraus/map
 - Acesta este un cod care realizeaza crearea si rularea unui cod in limbajul C++ intr-un container Docker
 - Codul este un convertor din cifre arabe in cifre romane.
 
